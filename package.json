@@ -1,0 +1,19 @@
+{
+  "name": "twocks",
+  "version": "1.0.0",
+  "description": "App to filter twitter data for trading setups with stocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulKapschitzki/Twocks.git"
+  },
+  "author": "PaulKapschitzki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulKapschitzki/Twocks/issues"
+  },
+  "homepage": "https://github.com/PaulKapschitzki/Twocks#readme"
+}
