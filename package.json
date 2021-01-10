@@ -1,10 +1,12 @@
 {
-  "name": "twocks",
+  "name": "tweecks",
   "version": "1.0.0",
   "description": "App to filter twitter data for trading setups with stocks",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
   },
   "repository": {
     "type": "git",
