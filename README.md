@@ -1,0 +1,2 @@
+- Should later be an electron app 
+- During development a simple single page web app
